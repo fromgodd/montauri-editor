@@ -20,3 +20,6 @@ In main folder run `npm i` or `yarn`
 After installation is done run `npm start`
 
 Then in another terminal tab/window run `tauri dev`
+
+
+TODO: Add more themes, Do code optimization
